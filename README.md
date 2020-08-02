@@ -9,8 +9,8 @@ The file naming conventions will be as follows:<br><br>
 <em>Raw/Comp|Coupler|CompensationVersion|-|Manufacturer|Headphone|Channel.txt</em><br>
 
 Here are some examples:<br><br>
-cEAR31-DanClarkAudio-EtherFlow-L.txt<br>
-cEAR31-Sennheiser-HD650-R.txt            
+cEAR32-DanClarkAudio-EtherFlow-L.txt<br>
+cEAR32-Sennheiser-HD650-R.txt            
 cFPC02-Grado-SR225-L.txt         
 
 ## File Format
@@ -33,7 +33,7 @@ Note that all EARS units are slightly different. The spreadsheet contains a delt
 In theory, applying this delta to your HEQ files should end with the same results here.
 https://docs.google.com/spreadsheets/d/1uUqkpD3EJMzpl8FeJbNOkjApvMKAIL3IP8Y1At_ldng/edit#gid=0
 
-The 3.1 version with the removal of the screws is currently used as of 8/1/2020
+The 3.2 version with the removal of the screws is currently used as of 8/1/2020
 
 ## These datasets are copyrighted at this time
 
