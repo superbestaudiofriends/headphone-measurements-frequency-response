@@ -6,12 +6,12 @@
 ## File Naming Conventions
 
 The file naming conventions will be as follows:<br><br>
-<em>Coupler|CompensationVersion|Channel|-|Manufacturer|Headphone|.txt</em><br>
+<em>Raw/Comp|Coupler|CompensationVersion|Channel|-|Manufacturer|Headphone|.txt</em><br>
 
 Here are some examples:<br><br>
-EAR31L-DanClarkAudio-EtherFlow.txt<br>
-EAR31R-Sennheiser-HD650.txt            
-FPC02R-Grado-SR225.txt         
+cEAR31L-DanClarkAudio-EtherFlow.txt<br>
+cEAR31R-Sennheiser-HD650.txt            
+cFPC02R-Grado-SR225.txt         
 
 ## File Format
 
