@@ -15,7 +15,7 @@ cFPC02-Grado-SR225-L.txt
 
 ## File Format
 
-The file will have two columns, frequency Response and amplitude, separated by a tab character. There will be no headers. The columns will look like this:<br>
+The file will have two columns, frequency Response and amplitude, separated by a space character. There will be no headers. The columns will look like this:<br>
 
 20.00   -43.43<br>
 30.00   -42.32<br>
