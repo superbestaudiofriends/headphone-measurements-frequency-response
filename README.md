@@ -15,11 +15,14 @@ cFPC02-Grado-SR225-L.txt
 
 ## File Format
 
-The file will have two columns, frequency Response and amplitude, separated by a space character. There will be no headers. The columns will look like this:<br>
+The file will have two columns, frequency Response and amplitude in db, separated by a space character. There will be no headers. The columns will look like this:<br>
 
 20.00   -43.43<br>
 30.00   -42.32<br>
 50.00   -21.33<br>
+75.00   -23.23
+
+Note that all data is normalized to the region between 500 to 1500Hz with the lower frequencies weighted more.
 
 
 ## Notes about SBAF compensation using a MiniDSP EARS
