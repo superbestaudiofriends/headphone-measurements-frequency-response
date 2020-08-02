@@ -38,9 +38,8 @@ https://docs.google.com/spreadsheets/d/1uUqkpD3EJMzpl8FeJbNOkjApvMKAIL3IP8Y1At_l
 
 The 3.2 version with the removal of the screws is currently used as of 8/1/2020
 
-## These datasets are copyrighted at this time
+## Use of these datasets
 
-Super Best Audio Friends
-Copyright 2020
-Will be looking to make it Creative Commons with Attribution CC-BY very soon
+This work is licensed under"Creative Commons - Attribution 4.0 International
+https://creativecommons.org/licenses/by/4.0/legalcode
 
