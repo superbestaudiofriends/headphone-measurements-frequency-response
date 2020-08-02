@@ -6,12 +6,13 @@
 ## File Naming Conventions
 
 The file naming conventions will be as follows:<br><br>
-<em>Raw/Comp|Coupler|CompensationVersion|-|Manufacturer|Headphone|Channel.txt</em><br>
+<em>raw/comp|Coupler|CompensationVersion|-|Manufacturer|Headphone|<pad>|<sample>|Channel.txt</em><br>
 
 Here are some examples:<br><br>
 cEAR32-DanClarkAudio-EtherFlow-L.txt<br>
 cEAR32-Sennheiser-HD650-R.txt            
-cFPC02-Grado-SR225-L.txt         
+cFPC02-Grado-SR225-L.txt    
+cEAR32-ZMF-VeriteOpen-Univ-2-L.txt
 
 ## File Format
 
@@ -23,7 +24,6 @@ The file will have two columns, frequency Response and amplitude in db, separate
 75.00   -23.23
 
 Note that all data is normalized to the region between 500 to 1500Hz with the lower frequencies weighted more.
-
 
 ## Notes about SBAF compensation using a MiniDSP EARS
 
