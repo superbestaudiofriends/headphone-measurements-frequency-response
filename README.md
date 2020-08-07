@@ -1,3 +1,7 @@
+# intro
+
+This repository is an effort to eventually make all https://superbestaudiofriends.org and http://www.Changstar.com headphone measurements data available to the general public.
+
 # headphone-measurements
 
 8/1/2020: I will be providing only SBAF compensated measurements for now using the MiniDSP EARS. One step at a time.
