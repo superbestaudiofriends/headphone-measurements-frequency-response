@@ -2,7 +2,7 @@
 
 This repository is an effort to eventually make all https://superbestaudiofriends.org and http://www.Changstar.com headphone measurements data available to the general public. I am hoping there will be volunteers to make code available to compare and contrast the measurements.
 
-This repository can be accessed as http://HPDB.io
+This repository can be accessed as the easier to remember http://HPDB.io
 
 ## headphone-measurements
 
