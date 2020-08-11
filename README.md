@@ -20,6 +20,16 @@ cEAR32-Sennheiser-HD650-R.txt
 cFPC02-Grado-SR225-L.txt    
 cEAR32-ZMF-VeriteOpen-Univ-2-L.txt
 
+
+## Measurement Systems
+
+cEAR32 MiniDSP EARS with screws removed (better seal) with compensation 3.2
+cEAR30 MiniDSP EARS with screws intact (stock) with compensation 3.02
+cFPC21 Flat Plate Coupler (no pinna with foam and felt overlay)
+
+Note all all compensations for each system are made somewhat comparable to each other. There may be differences because of seal, inconsistencies in placement, etc.
+
+
 ## File Format
 
 All frequency response data will be 1/6 octave smoothed. The file will have two columns, frequency Response and amplitude in db, separated by a space or tab character. There will be no headers. The columns will look like this:<br>
@@ -43,6 +53,7 @@ In theory, applying this delta to your HEQ files should end with the same result
 https://docs.google.com/spreadsheets/d/1uUqkpD3EJMzpl8FeJbNOkjApvMKAIL3IP8Y1At_ldng/edit#gid=0
 
 The 3.2 version with the removal of the screws is currently used as of 8/1/2020
+
 
 ## Use of these datasets
 
