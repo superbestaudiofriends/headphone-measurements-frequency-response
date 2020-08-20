@@ -55,6 +55,13 @@ https://docs.google.com/spreadsheets/d/1uUqkpD3EJMzpl8FeJbNOkjApvMKAIL3IP8Y1At_l
 The 3.2 version with the removal of the screws is currently used as of 8/1/2020
 
 
+## Viewing datasets
+
+Use this tool from Bill Pham to visualize the data: http://billp.site/projects/chart-tool/
+Download the files first. Be sure to apply +90db offset or so because the datasets are normalized to 0db.
+Enter 90 in the offset field and press the "+Offset"
+
+
 ## Use of these datasets
 
 This work is licensed under"Creative Commons - Attribution 4.0 International
