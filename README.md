@@ -41,7 +41,7 @@ All frequency response data will be 1/6 octave smoothed. The file will have two 
 
 Note that all data is normalized to the region between 500 to 1500Hz with the lower frequencies weighted more.
 
-## Notes about SBAF compensation using a MiniDSP EARS
+## Notes about SBAF compensation using a MiniDSP EARS and other stuff
 
 This compensation is an attempt to have a straight line across as perceptive neutral. Read about it here:
 https://www.superbestaudiofriends.org/index.php?threads/minidsp-ears-deriving-sbaf-compensations-from-minidsp-files.7067/
@@ -53,6 +53,12 @@ In theory, applying this delta to your HEQ files should end with the same result
 https://docs.google.com/spreadsheets/d/1uUqkpD3EJMzpl8FeJbNOkjApvMKAIL3IP8Y1At_ldng/edit#gid=0
 
 The 3.2 version with the removal of the screws is currently used as of 8/1/2020
+
+As of August 20, 2020, I will begin to add the flat plate coupler measurements. These will be compensated as much
+as possible to be comparable with the EARs. Note that there will be some slight differences as the flat plate
+rig does have not an ear, e.g. pinna, concha, etc.
+
+These will have filenames that start with cFPC21*
 
 
 ## Viewing datasets
