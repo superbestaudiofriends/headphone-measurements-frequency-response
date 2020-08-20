@@ -23,9 +23,9 @@ cEAR32-ZMF-VeriteOpen-Univ-2-L.txt
 
 ## Measurement Systems
 
-cEAR32 MiniDSP EARS with screws removed (better seal) with compensation 3.2
-cEAR30 MiniDSP EARS with screws intact (stock) with compensation 3.02
-cFPC21 Flat Plate Coupler (no pinna with foam and felt overlay)
+cEAR32 MiniDSP EARS with screws removed (better seal) with compensation 3.2<br>
+cEAR30 MiniDSP EARS with screws intact (stock) with compensation 3.02<br>
+cFPC21 Flat Plate Coupler (no pinna with foam and felt overlay)<br>
 
 Note all all compensations for each system are made somewhat comparable to each other. There may be differences because of seal, inconsistencies in placement, etc.
 
