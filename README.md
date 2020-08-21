@@ -17,7 +17,7 @@ The file naming conventions will be as follows:<br><br>
 Here are some examples:<br><br>
 cEAR32-DanClarkAudio-EtherFlow-L.txt<br>
 cEAR32-Sennheiser-HD650-R.txt            
-cFPC02-Grado-SR225-L.txt    
+cFPC21-Grado-SR225-L.txt    
 cEAR32-ZMF-VeriteOpen-Univ-2-L.txt
 
 
